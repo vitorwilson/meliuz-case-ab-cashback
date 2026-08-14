@@ -1,0 +1,4 @@
+# Material do processo seletivo
+*.docx
+
+__pycache__/
